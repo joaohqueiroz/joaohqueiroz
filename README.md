@@ -9,3 +9,10 @@
 A web development aprentice.
 
 Actually studying Computer Science at State University of Santa Cruz and Fullstack Developer at CQuantt. Passionate about learning new technologies and software development methods.
+
+<p align="center">
+<a href="https://github.com/joaohqueiroz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaohqueiroz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaohqueiroz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
