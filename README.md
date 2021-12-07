@@ -1,6 +1,6 @@
 # João Henrique dos S. Queiroz
 
-- 👨🏽‍💻Fullstack Developer Jr. at IBM Brazil
+- 👨🏽‍💻Application Development Assistant at IBM Brazil
 - 🎓Majoring in Computer Science at UESC
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Henrique-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-henrique-dos-santos-queiroz-b5274316b/)](https://www.linkedin.com/in/joão-henrique-dos-santos-queiroz-b5274316b/) 
