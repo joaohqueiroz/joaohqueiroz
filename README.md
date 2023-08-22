@@ -1,7 +1,7 @@
 # João Henrique dos S. Queiroz
 
 - 👨🏽‍💻Application Development Assistant at IBM Brazil
-- 🎓Majoring in Computer Science at UESC
+- 🎓Bacharelor degree in Computer Science at UESC
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Henrique-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-henrique-dos-santos-queiroz-b5274316b/)](https://www.linkedin.com/in/joão-henrique-dos-santos-queiroz-b5274316b/) 
 [![Gmail Badge](https://img.shields.io/badge/-johnrick.jh@gmail.com-BB001B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnrick.jh@gmail.com)](mailto:johnrick.jh@gmail.com)
